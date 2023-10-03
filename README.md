@@ -1,4 +1,4 @@
-# Creating your own WiFi or Bluetooth® antenna <img align="right" width="100" height="100" src="/assets/logo.png">
+# Build your own WiFi or Bluetooth® antenna <img align="right" width="100" height="100" src="/assets/logo.png">
 
 <p align="left">
 <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Googool/antenna?style=flat-square">
