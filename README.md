@@ -1,4 +1,4 @@
-# Creating your own antenna for Wi-Fi and Bluetooth® applications
+# Creating your own antenna for Wi-Fi and Bluetooth® <img align="right" width="100" height="100" src="/assets/logo.png">
 
 Have you ever wondered how everyday devices, whether you use them or connect to them, such as Wi-Fi routers and Bluetooth® gadgets, communicate? 
 
@@ -18,7 +18,7 @@ If you do not wish to disassemble an antenna of your own, then you can [watch th
 
 We settled on the monopole antenna instead of the dipole antenna due to one of the characteristics of the monopole antenna, which is its [omnidirectional](https://en.wikipedia.org/wiki/Omnidirectional_antenna) (360°) nature. In contrast, the dipole antenna is [bidirectional](https://en.wikipedia.org/wiki/Dipole_antenna#Dipole_characteristics), which makes it impractical for use within moving devices, such as mobile phones, with Wi-Fi or Bluetooth®. However, you might find the dipole antenna useful when working with FM broadcasting, etc.
 
-![comparison](assets\comparison.png)
+![comparison](https://github.com/Googool/antenna/blob/main/assets/comparison.png)
 
 The reasoning behind why bidirectional is impractical in this case is that there will be dead spots where we are unable to reach. This means that if we move around, we might lose our signal, whereas with the omnidirectional signal, as illustrated above, we won't.
 
