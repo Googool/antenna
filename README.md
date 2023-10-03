@@ -1,5 +1,11 @@
 # Creating your own antenna for Wi-Fi and Bluetooth® <img align="right" width="100" height="100" src="/assets/logo.png">
 
+<p align="left">
+<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Googool/antenna?style=flat-square">
+<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Googool/antenna/total?style=flat-square">
+<img alt="GitHub" src="https://img.shields.io/github/license/Googool/antenna?style=flat-square">
+</p>
+
 Have you ever wondered how everyday devices, whether you use them or connect to them, such as Wi-Fi routers and Bluetooth® gadgets, communicate? 
 
 With a quick search on [Google](https://letmegooglethat.com/?q=Does+WiFi+and+Bluetooth+both+use+2.4+GHz+band%3F), we learn that both Wi-Fi and Bluetooth® operate on the 2.4 GHz ISM band, spanning 83 MHz in width. What do these antennas, the 2.4 GHz antennas that facilitate our everyday use of these protocols, look like? And how can we make our own?
